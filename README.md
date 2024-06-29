@@ -9,3 +9,6 @@ Magyarországi frekvenciák saját használatra összeszedett gyűjteménye. Tar
 
 ### vhf.csv
 Hajózási frekvenciák.
+
+### HU airports.csv
+Magyarországi repülőterek frekvenciái + kisrepülős tájékoztatók.
