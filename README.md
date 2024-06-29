@@ -8,4 +8,4 @@ CSV fájlok használata Chirppel: https://chirpmyradio.com/projects/chirp/wiki/C
 Magyarországi frekvenciák saját használatra összeszedett gyűjteménye. Tartalmazza a PMR frekiket, amatőr átjátszókat, repülőtereket, hajózási csatornákat, néhány műholdat, taxisokat.
 
 ### vhf.csv
-Hakjózási frekvenciák.
+Hajózási frekvenciák.
