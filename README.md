@@ -12,3 +12,6 @@ Hajózási frekvenciák.
 
 ### HU airports.csv
 Magyarországi repülőterek frekvenciái + kisrepülős tájékoztatók.
+
+### kamion.csv
+Kamionosok által használt frekvenciák - nem tesztelt.
