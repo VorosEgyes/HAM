@@ -1,6 +1,6 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
 0,CB01,26.965000,off,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,USB,10.00,,5.0W,,,,,
-1,CB01,26.975000,off,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,USB,10.00,,5.0W,,,,,
+1,CB02,26.975000,off,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,USB,10.00,,5.0W,,,,,
 2,CB03,26.985000,off,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,USB,10.00,,5.0W,,,,,
 3,CB04,27.005000,off,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,USB,10.00,,5.0W,,,,,
 4,CB05,27.015000,off,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,USB,10.00,,5.0W,,,,,
