@@ -15,3 +15,6 @@ Magyarországi repülőterek frekvenciái + kisrepülős tájékoztatók.
 
 ### kamion.csv
 Kamionosok által használt frekvenciák - nem tesztelt.
+
+### cb_kozep40.csv
+CB közép 40 USB csatorna.
